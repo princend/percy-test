@@ -11,7 +11,6 @@ PercyScript.run(async (page, percySnapshot) => {
   // 起server
   let server = httpServer.createServer();
   server.listen(PORT);
-
   console.log(`Server started at ${TEST_URL}`);
 
   // 去該網址拍照
