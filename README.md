@@ -17,8 +17,11 @@ $ open index.html
 ```
 
 To run the PercyScript:
+
 ```bash
 $ npm run snapshots
 ```
 
 See `snapshots.js` file for the example script.
+
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/f8e121be/testing-project)

@@ -5,6 +5,7 @@
     "snapshots": "percy exec -- node snapshots.js"
   },
   "dependencies": {
+    "slack-notify": "^0.1.7",
     "todomvc-app-css": "^2.2.0",
     "todomvc-common": "^1.0.2"
   },
